@@ -1,1 +1,2 @@
+# El código demuestra una técnica eficiente y directa para escanear puertos y detectar servicios web activos, aspectos cruciales en las evaluaciones de seguridad de redes. La implementación de multihilos garantiza una rápida identificación de puertos abiertos, mientras que la verificación de protocolos HTTP/HTTPS proporciona una visión más profunda de los servicios expuestos, permitiendo tomar acciones proactivas para asegurar los sistemas.
 
